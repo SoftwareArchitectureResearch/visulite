@@ -1,0 +1,25 @@
+.container {
+  flex-direction: row;
+  align-items: stretch;
+  content: space-between;
+  justify-content: space-between;
+}
+.centeringGrid {
+  align-items: center;
+  justify-content: center;
+  margin-top: 0%;
+  margin-bottom: 5%;
+}
+.right-item {
+  align-self: flex-end;
+}
+.box {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: flex-start;
+  background-color: #282c34;
+  bottom: 0.1;
+}

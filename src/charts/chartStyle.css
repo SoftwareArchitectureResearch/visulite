@@ -1,0 +1,51 @@
+.text {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 2em;
+  line-height: 1.4375em;
+  letter-spacing: 0.00938em;
+  fill: white;
+  color: white;
+}
+
+#grad {
+  background: linear-gradient(45deg, (0% DodgerBlue), (100% DarkSlateBlue));
+}
+
+.svg {
+  size-adjust: "false";
+  height: "100%";
+  width: "100%";
+  margin-right: "0px";
+  margin-left: "0px";
+}
+
+.legend {
+  font-size: 1.3em;
+  fill: white;
+}
+
+.bar {
+  cursor: pointer;
+}
+
+.mySlices {
+  cursor: pointer;
+}
+
+.rotateText {
+  rotate: 45;
+}
+#bubble {
+  cursor: pointer;
+}
+#toolTip {
+  fill: white;
+  color: white;
+  stroke-width: 1rem;
+  stroke: black;
+  text-decoration: black;
+  border-radius: 5px;
+  height: 20rem;
+  width: 20rem;
+}
