@@ -2,6 +2,7 @@
   "name": "visulite",
   "version": "0.1.0",
   "private": true,
+  "homepage": "visulite",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
@@ -20,6 +21,7 @@
     "bibtex-js-parser": "^1.1.6",
     "bibtex-parser-js": "^0.0.2",
     "d3": "^7.8.4",
+    "history": "^5.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",

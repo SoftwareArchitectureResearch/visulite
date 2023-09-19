@@ -9,6 +9,10 @@ import { Provider } from "react-redux";
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
+const base = document.createElement("base")
+base.href="%PUBLIC_URL%/"
+document.head.appendChild(base)
+
 root.render(
   <React.StrictMode>
     <Provider store={store}>
