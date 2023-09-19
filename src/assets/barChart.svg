@@ -1,0 +1,20 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+
+
+  <!-- Bars -->
+  <rect x="50" y="150" width="40" height="100" fill="#FF5733" />
+  <rect x="120" y="130" width="40" height="120" fill="#FFC300" />
+  <rect x="190" y="110" width="40" height="140" fill="#33C4FF" />
+  <rect x="260" y="140" width="40" height="110" fill="#33FFA1" />
+
+  <!-- Axes -->
+  <line x1="30" y1="90" x2="30" y2="250" stroke="#444" stroke-width="2" />
+  <line x1="30" y1="250" x2="300" y2="250" stroke="#444" stroke-width="2" />
+
+  <!-- Discontinued line-->
+  <line x1="30" y1="130" x2="40" y2="130" stroke="#444" stroke-width="2" />
+  <line x1="50" y1="130" x2="60" y2="130" stroke="#444" stroke-width="2" />
+  <line x1="70" y1="130" x2="80" y2="130" stroke="#444" stroke-width="2" />
+  <line x1="90" y1="130" x2="100" y2="130" stroke="#444" stroke-width="2" />
+  <line x1="110" y1="130" x2="120" y2="130" stroke="#444" stroke-width="2" />
+</svg>
